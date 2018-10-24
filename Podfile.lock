@@ -1,0 +1,16 @@
+PODS:
+  - IHKeyboardAvoiding (4.3)
+
+DEPENDENCIES:
+  - IHKeyboardAvoiding
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IHKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  IHKeyboardAvoiding: e6a8f06434baf4c3b45825c3eedb35cea5d0d76b
+
+PODFILE CHECKSUM: aa818c024e52e0d1c1ff554d29c40403bdb912f6
+
+COCOAPODS: 1.5.0
